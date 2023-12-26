@@ -10,6 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 
 
+#new comments added here
+
 def test_tutorials_ninja():
     driver = webdriver.Chrome()
     driver.maximize_window()
